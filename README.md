@@ -1,4 +1,4 @@
-# Centrality-Structural
+# Industrial Policy and Centrality - Structural 
 This is the code behind my JMP structural model! The project is very much in progress - check back soon for more updates.
 ##
 
